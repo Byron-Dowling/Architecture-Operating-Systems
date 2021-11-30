@@ -1,0 +1,41 @@
+Decimal Number: 70041
+Little Endian Bit Map: 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 4
+
+Decimal Number: 88467
+Little Endian Bit Map: 1 0 0 1 0 0 1 1 0 1 0 1 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 5
+
+Decimal Number: 76334
+Little Endian Bit Map: 0 0 1 0 1 1 1 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 5
+
+Decimal Number: 96500
+Little Endian Bit Map: 1 1 1 1 0 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 2
+
+Decimal Number: 89169
+Little Endian Bit Map: 0 1 0 1 1 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 5
+
+Decimal Number: 85724
+Little Endian Bit Map: 1 1 0 1 1 1 0 0 0 1 0 0 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 3
+
+Decimal Number: 81478
+Little Endian Bit Map: 0 1 0 0 0 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 3
+
+Decimal Number: 99358
+Little Endian Bit Map: 1 0 0 0 0 1 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 0
+
+Decimal Number: 96962
+Little Endian Bit Map: 1 1 0 0 0 0 1 0 0 1 1 1 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+Skips: 0
+
+Decimal Number: 94464
+Little Endian Bit Map: 0 1 1 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Skips: 2
+
+The average number of skips for this experiment is: 2.9
