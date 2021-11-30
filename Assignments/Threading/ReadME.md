@@ -6,8 +6,8 @@ You will be working with a threads program. You will need to be creative and may
 You will run the code initially without using semaphores and in a second run, with semaphores and report any difference in the results. Your main program should print the TOTAL value after all threads have completed their work. You will hand in the printout of your source code containing the semaphores solution and the output values of both runs (with and without semaphores) on the due date (no late work will be accepted). Use Cygwin or any other Unix/Linux system you may have access to. You can work in a group of at most 3 students.\
 \
 Hints: you may need to use the function pthread_join(), but you will not need conditional variables. gcccompiler should work and create a file a.exe in Cygwin, if using C++ then the compiler should be g++ Executing a.exe>out.txt will redirect the output to the file out.txt. You may need to run the program with ./a.exe depending on how your system is configured. The next two examples should help with the coding. 
-\
-\
+
+
 ## P-Threads Programming: Advanced Computer Architecture:
 
 ### Description:
