@@ -45,7 +45,7 @@ struct BitMap
 
     /*
         Converting unsigned int value x into Binary via u-int array. The code
-        woll shift the number by i to get the value and perform an AND to determine
+        will shift the number by i to get the value and perform an AND to determine
         if the binary bit should be a zero or a one.
     */
 
