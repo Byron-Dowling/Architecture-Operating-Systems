@@ -78,7 +78,7 @@ struct BitMap
             only copy over 8 bits at a time. Values are hard coded as we know we are working
             with 32 bits.
 
-            The actual values that are coped are put in a temp vector of unsigned ints and
+            The actual values that are copied are put in a temp vector of unsigned ints and
             those are then pushed to a matrix with is a vector of vector of unsigned ints.
         */
 
