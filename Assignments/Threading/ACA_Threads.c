@@ -1,5 +1,5 @@
 /*
-	Name/s: Loic Konan & Byron Dowling
+	Name: Byron Dowling
 	Class: 5133 Advanced Computer Architecture
 	Date: 11/3/2021
 	Assignment: Homework #5 Pthreads Programming
