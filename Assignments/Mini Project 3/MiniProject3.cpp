@@ -1,5 +1,5 @@
 /*
-    Name:       Byron Dowling, Paxton Proctor, Timothy Lockhart
+    Name:       Byron Dowling
     Course:     4103 Operating Systems
     Date:       11/12/2021
 
