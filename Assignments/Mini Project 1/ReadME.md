@@ -1,7 +1,7 @@
 ## Mini Project #1
 
 ### Description:
-You just got a job at GOOGLE (Giant OOps: Geeks Learning from Errors Google has decided to add one utility to its operating system. You are called to write the new utility. The program should read an integer number N from the input and using multiple processes to speed up the answer, print values from 1 to N. The main program will create 2 children.\
+You just got a job at GOOGLE (Giant OOps: Geeks Learning from Errors) Google has decided to add one utility to its operating system. You are called to write the new utility. The program should read an integer number N from the input and using multiple processes to speed up the answer, print values from 1 to N. The main program will create 2 children.\
 \
 The first child will print values 1 to N/3 (integer division), the second child will print from N/3 +1 to 2N/3, while the main program prints the remaining values. Your mission is to write the program (it should be very short, less than 50 lines for sure) that creates the new child processes and executes the printing (screen display). You will submit your source code through D2L on or before the due date (make it a text file: .txt). You must use C or C++ in the CYGWIN system or any UNIX like system. You can work in a group of at most 3 students.\
 
